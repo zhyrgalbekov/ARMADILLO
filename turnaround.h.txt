@@ -1,0 +1,15 @@
+void turnAround() {
+  motorSet = "RIGHT";
+  leftMotor1.run(FORWARD);      // turning motor 1 forward
+  leftMotor2.run(FORWARD);      // turning motor 2 forward
+  rightMotor1.run(BACKWARD);    // turning motor 3 backward
+  rightMotor2.run(BACKWARD);    // turning motor 4 backward
+  rightMotor1.setSpeed(speedSet+MAX_SPEED_OFFSET);      
+  rightMotor2.setSpeed(speedSet+MAX_SPEED_OFFSET);
+  delay(1700); // run motors this way for 1700
+  motorSet = "FORWARD";
+  leftMotor1.run(FORWARD);      // set both motors back to forward
+  leftMotor2.run(FORWARD);      // set both motors back to forward
+  rightMotor1.run(FORWARD);     // set both motors back to forward
+  rightMotor2.run(FORWARD);     // set both motors back to forward     
+}  

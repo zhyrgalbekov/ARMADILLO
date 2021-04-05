@@ -2,6 +2,7 @@
 OBSTACLE AVOIDING CAR
 ## Installation 
 The minimum programming knowledge needed to program the operations of our product is as follows:
+
 First of all, you need to download the Arduino and install the driver for your laptop/computer/app in order to master the programming part 
 To do this type in your browser Arduino.com and go to the [software section](https://www.arduino.cc/en/software) select the option your notebook requires (e.g. DOWNLOAD OPTIONS: Win 7 and newer, Windows app Win 8.1 or 10, Linux 32 bits, Mac OS X 10.10 or newer). 
 

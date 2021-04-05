@@ -25,3 +25,5 @@ Before uploading the code you have to install the necessary library.
 
 
 # [You can find the entire code with an explanation of each line by following this link](https://github.com/zhyrgalbekov/ARMADILLO/blob/main/setup.h.txt)
+
+The blue letters are code references.

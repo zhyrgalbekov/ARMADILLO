@@ -27,3 +27,5 @@ Before uploading the code you have to install the necessary library.
 # [You can find the entire code with an explanation of each line by following this link](https://github.com/zhyrgalbekov/ARMADILLO/blob/main/setup.h.txt)
 
 The blue letters are code references.
+
+Clik [here](https://drive.google.com/file/d/1Wl0o0i0Nbh45KnZMCt2I7w-LkfK4ey3C/view?usp=sharing) for a video of 4 motors spinning 4 wheels with a L298N motor driver and an Arduino board

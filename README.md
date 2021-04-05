@@ -1,5 +1,7 @@
 # ARMADILLO 
 OBSTACLE AVOIDING CAR
+
+The purpose of our project is to build a robot wall following robot to offer an educational experience for K-12 students.
 ## Installation 
 The minimum programming knowledge needed to program the operations of our product is as follows:
 
@@ -18,6 +20,8 @@ Before uploading the code you have to install the necessary library.
  
  To instal them go to sketch >> Include Library >> Manage Labraries..
  
- ## Below is the connection of Motor, where is simple solder two wires to the terminals and then connected to either M1, M2, M3, or M4.
+ ## Below is a link for motor wiring where you simply solder two wires to the terminals and then connect either M1, M2, M3, or M4.
+[Motors Connection]( https://github.com/zhyrgalbekov/ARMADILLO/blob/main/CONNECTION%20OF%20MOTOR.h.txt)
 
 
+# [You can find the entire code with an explanation of each line by following this link](https://github.com/zhyrgalbekov/ARMADILLO/blob/main/setup.h.txt)

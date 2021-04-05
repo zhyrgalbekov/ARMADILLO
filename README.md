@@ -18,27 +18,6 @@ Before uploading the code you have to install the necessary library.
  
  To instal them go to sketch >> Include Library >> Manage Labraries..
  
- ## define
-.The motor shield can drive up to 4 DC motors bidirectional. That means they can be driven forwards and backwards
-
-'''#define TRIG_PIN A0 // Pin A0 on the Motor Drive Shield soldered to the ultrasonic sensor
-
-'''#define ECHO_PIN A1 // Pin A1 on the Motor Drive Shield soldered to the ultrasonic sensor
-
-'''#define MAX_DISTANCE 300 // sets maximum useable sensor measuring distance to 300cm
-
-The speed ranges from 0(stopped)  to 255 (full speed)/ 
-
-#define MAX_SPEED 160 // sets speed of DC traction motors to 150/250 or about 70% of full speed - to get power drain down.
-
-#define MAX_SPEED_OFFSET 40 // this sets offset to allow for differences between the two DC traction motors
-
-#define COLL_DIST 30 // sets distance at which robot stops and reverses to 30cm
-
-#define TURN_DIST COLL_DIST+20 // sets distance at which robot veers away from object
-
-'''C
-NewPing sonar(TRIG_PIN, ECHO_PIN, MAX_DISTANCE); // sets up sensor library to use the correct pins to measure distance.
-This initializes NewPing to use pin 12 for trigger output, pin 11 for echo input, with a maximum ping distance of 200cm
+ ## Below is the connection of Motor, where is simple solder two wires to the terminals and then connected to either M1, M2, M3, or M4.
 
 

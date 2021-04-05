@@ -24,7 +24,7 @@ Before uploading the code you have to install the necessary library.
 [Motors Connection]( https://github.com/zhyrgalbekov/ARMADILLO/blob/main/CONNECTION%20OF%20MOTOR.h.txt)
 
 
-# [You can find the entire code with an explanation of each line by following this link](https://github.com/zhyrgalbekov/ARMADILLO/blob/main/setup.h.txt)
+# You can find the entire code with an explanation of each line by clicking [here](https://github.com/zhyrgalbekov/ARMADILLO/blob/main/setup.h.txt)
 
 The blue letters are code references.
 

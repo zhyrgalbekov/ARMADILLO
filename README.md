@@ -29,3 +29,5 @@ Before uploading the code you have to install the necessary library.
 The blue letters are code references.
 
 Clik [here](https://drive.google.com/file/d/1Wl0o0i0Nbh45KnZMCt2I7w-LkfK4ey3C/view?usp=sharing) for a video of 4 motors spinning 4 wheels with a L298N motor driver and an Arduino board
+
+Click [here](https://drive.google.com/file/d/1UhwrXBNC9UnkD7Lr7NQAdZx7RguyoC6o/view?usp=sharing) to see a demonstration of the hc-sr04 ultrasonic transducer. 
